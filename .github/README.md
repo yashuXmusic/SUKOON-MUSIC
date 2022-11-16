@@ -34,18 +34,22 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/loc
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [GitHub Issues](https://github.com/yashuXmusic/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
+- Contact options listed on [this GitHub profile](https://github.com/yashuXmusic)
+- [Telegram Support](https://t.me/FRIEND_AKSHU)
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/yashuXmusic/YukkiMusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
-Together, we can make **YukkiMusicBot** better!
+Together, we can make **SUKKON MUSIC** better!
 # 📑 Acknowledgement / Credits
+friend yashu
+a23 hacker
+team yukki
+
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
 
