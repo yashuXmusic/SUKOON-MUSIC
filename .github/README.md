@@ -1,4 +1,4 @@
-<img src="" align="right" width="200" height="200"/>
+<img src="https://telegra.ph//file/e2cbfee3e8fc3be94f57f.jpg" align="right" width="200" height="200"/>
 
 # SUKOON MUSIC <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
