@@ -25,10 +25,6 @@ We have temporarily disabled the deployment for  all these cloud service platfor
 <a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
-## 🖇 VPS Deployment
-
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
 
 # 🏷 Support / Assistance
 
@@ -40,7 +36,7 @@ Reach out to the maintainer at one of the following places:
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/yashuXmusic/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/yashuXmusic/SUKOON-MUSIC) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
@@ -51,7 +47,7 @@ a23 hacker
 team yukki
 
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power SUKOON MUSIC BOT:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
